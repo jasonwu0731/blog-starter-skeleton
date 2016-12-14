@@ -20,7 +20,7 @@
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
     "react-quill": "^0.4.1",
-    "react-tagsinput": "^3.13.6"
+    "react-tagsinput": "^3.14.0"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",

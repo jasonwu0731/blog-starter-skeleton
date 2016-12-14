@@ -69,7 +69,7 @@ class App extends Component {
         <nav className="navbar navbar-default navbar-static-top">
           <div className="container">
             <div className="navbar-header">
-              <a className="navbar-brand" href="#/">Web Seminar - Blog</a>
+              <a className="navbar-brand" href="#/">My Hello Blog</a>
             </div>
             <ul className="nav navbar-nav">
               <li>
