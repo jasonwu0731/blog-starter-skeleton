@@ -48,10 +48,10 @@ class ArticlesPage extends Component {
 export default ArticlesPage;
 
 const ArticleList = props => <div className="list-group">
-  <a href={props.href} className="list-group-item list-group-item-action">
+  <a href={props.href} className="list-group-item list-group-item-success">
     <h1 className="list-group-item-heading">{props.title}</h1>
-    <h5>Created at {props.createdAt}</h5>
-    <h5>Last updated at {props.updateAt} </h5>
+    <h6>Created at {props.createdAt}</h6>
+    <h6>Last updated at {props.updateAt} </h6>
     <p className="list-group-item-text">{props.content}</p>
   </a>
 </div>
